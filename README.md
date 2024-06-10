@@ -1,18 +1,16 @@
- <foreignObject width="100%" height="100%">
-    <div xmlns="http://www.w3.org/1999/xhtml">
-        <style>
-            .container {
-                display: flex;
-                justify-content: center;
-                align-items: center;
-                min-height: 300px;
-                min-width: 300px;
-                border: 2px solid #FFFFFF;
-                font-size: 2rem;
-            }
-        </style>
-        <div class="container">
-            On any path that is minee 🚶🏻‍♂️
-        </div>
-    </div>
-</foreignObject>
+<div style="width: 100%;">
+  <a href="https://github.com/nikolalsvk/nikolalsvk/blame/main/welcome.svg">
+    <img src="welcome.svg" style="width: 100%;" alt="Click to see the source">
+  </a>
+</div>
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
