@@ -170,11 +170,11 @@
 
       @media (prefers-color-scheme: light) {
         .body {
-          --color-main: #9B5DE5;
-          --color-primary: #F15BB5;
-          --color-secondary: #00BBF9;
+          --color-main: #2F1DF2;
+          --color-primary: #751DF2;
+          --color-secondary: #BA1DF2;
           --color-background: #ffffff;
-          --color-link: #00BBF9;
+          --color-link: #BA1DF2;
           --color-link-active: #F15BB5;
         }
       }
@@ -203,21 +203,18 @@
     <div class='body'>
       <div class='container'>
         <h1>
-          <a href="https://github.com/nikolalsvk">
-            <span><em>nikola đuza</em></span>
-            <span><em>nikola đuza</em></span>
-            <span><em>nikola đuza</em></span>
+          <a href="https://github.com/leoramosjr">
+            <span><em>leonardo ramos</em></span>
+            <span><em>leonardo ramos</em></span>
+            <span><em>leonardo ramos</em></span>
           </a>
         </h1>
         <section class='items'>
           <ul>
-            <li>Writer &#38; Software Engineer</li>
+            <li>Software Engineer</li>
           </ul>
           <ul>
-            <li>at <a href="https://pragmaticpineapple.com">Pragmatic Pineapple</a></li>
-          </ul>
-          <ul>
-            <li><a href="mailto:nikolaseap@gmail.com" role="button"><span class='hi'>👋</span></a></li>
+            <li>at <a href="https://creatusdev.com">Creatus Dev</a></li>
           </ul>
         </section>
       </div>
