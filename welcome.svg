@@ -13,11 +13,11 @@
       }
 
       .body {
-        --color-main: #ff9b71;
-        --color-primary: #ff4444;
-        --color-secondary: #e8e677;
+        --color-main: #2F1DF2;
+        --color-primary: #751DF2;
+        --color-secondary: #BA1DF2;
         --color-background: #0d1117;
-        --color-link: #fef29e;
+        --color-link: #BA1DF2;
         --color-link-active: #ff4444;
 
         height: 400px;
@@ -204,9 +204,9 @@
       <div class='container'>
         <h1>
           <a href="https://github.com/leoramosjr">
-            <span><em>leonardo ramos</em></span>
-            <span><em>leonardo ramos</em></span>
-            <span><em>leonardo ramos</em></span>
+            <span><em>leo ramos</em></span>
+            <span><em>leo ramos</em></span>
+            <span><em>leo ramos</em></span>
           </a>
         </h1>
         <section class='items'>
